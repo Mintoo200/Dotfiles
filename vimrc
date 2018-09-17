@@ -13,6 +13,7 @@ highlight LineNr ctermbg=235 ctermfg=051
 set autoindent
 set mouse=a
 
+set tabstop=8
 set softtabstop=4
 set shiftwidth=4
 set expandtab

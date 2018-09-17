@@ -1,0 +1,4 @@
+*utf8: always
+
+urxvt*transparent:true
+urxvt*shading:10
