@@ -13,4 +13,4 @@ alias piscine='cd ~/afs/gauthier.fiorentino/piscine'
 alias confExport='~/afs/.confs/confExport.sh'
 
 
-PS1='[\033[01;36m\]\u\033[00;31m\]@\033[01;32m\]\h \033[01;37m\]\W]\$ '
+PS1='[\e[92m\u\e[31m@\e[92m\h \e[4m\W\e[0m]\$ '
