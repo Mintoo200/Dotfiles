@@ -14,5 +14,5 @@ fi
 cd "$GITREPO"
 git add -A 1> /dev/null
 git commit -m  "Update: $(date +"%A %d %Y at %T %Z") ($(date -u +"%T %Z"))." 1> /dev/null
-git push
+git push 1> /dev/null
 exit 0
