@@ -6,9 +6,9 @@ GITREPO="/home/gauthier.fiorentino/afs/gauthier.fiorentino/Config/"
 FILELIST="$CONFS/bashrc $CONFS/vimrc $CONFS/confExport.sh"
 
 if [ $# -eq 0 ]; then
-    cp -u -t "$GITREPO" $FILELIST
+    cp -u -t "$GITREPO" $FILELIST 1> /dev/null
 else
-    cp -u "$CONFS$1" "$GITREPO"
+    cp -u "$CONFS$1" "$GITREPO" 1> /dev/null
 fi
 
 cd "$GITREPO"
