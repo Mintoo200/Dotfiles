@@ -2,8 +2,8 @@
 "http://vim.wikia.com/wiki/Xterm256_color_names_for_console_Vim
 "http://vimdoc.sourceforge.net/htmldoc/syntax.html
 "set default register s clipboard
+"colapse loops and functions
 "line wrap in insert
-
 set encoding=utf-8 fileencodings=
 syntax on
 set number
@@ -30,7 +30,7 @@ set list
 set listchars=eol:$,tab:>_
 highlight SpecialChar ctermfg=118
 "set background
-highlight Normal ctermbg=232
+highlight Normal guibg=NONE ctermbg=NONE
 
 highlight Comment cterm=italic
 highlight Constant ctermfg=121 cterm=bold
@@ -80,3 +80,8 @@ inoremap '' ''<Left>
 inoremap {} {}<Left>
 inoremap {}<Enter> <Enter>{}<Left><Enter><Enter><up><tab>
 
+
+
+set foldmethod=indent
+set foldlevel=1
+set foldclose=all

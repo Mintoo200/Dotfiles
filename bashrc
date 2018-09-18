@@ -11,6 +11,6 @@ alias ls='ls --color=auto'
 alias gdb='gdb -p'
 alias piscine='cd ~/afs/gauthier.fiorentino/piscine'
 alias confExport='~/afs/.confs/confExport.sh'
-
+alias confs='cd ~/afs/.confs'
 
 PS1='\[\e[92m\]\u\e[31m\]@\e[92m\h\e[7m\] \e[5m\]\W \e[0m\]]\$\n>>> '
