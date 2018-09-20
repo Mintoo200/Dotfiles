@@ -17,7 +17,6 @@ cd "$GITREPO"
 git add -A 1> /dev/null
 git commit -m  "Update: $(date +"%A %d %Y at %T %Z") ($(date -u +"%T %Z"))." 1> /dev/null
 git push 1> /dev/null
-exit 0
-
 rm -rf /home/gauthier.fiorentino/.gitconfig
 ln -s ${CONFS}/gitconfig /home/gauthier.fiorentino/.gitconfig
+exit 0
