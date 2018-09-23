@@ -1,7 +1,12 @@
 "TODO
+"syntastic
+
+
+"HELP TODO
 "http://vim.wikia.com/wiki/Xterm256_color_names_for_console_Vim
 "http://vimdoc.sourceforge.net/htmldoc/syntax.html
-"set default register s clipboard
+
+
 set encoding=utf-8 fileencodings=
 syntax on
 set number
@@ -64,3 +69,14 @@ set foldlevelstart=20
 set foldcolumn=4
 :match Error /\s\+$/
 :2match Error /\t/
+
+execute pathogen#infect()
+
+set statusline+=%#warningmsg#
+set statusline+=%{SyntasticStatuslineFlag()}
+set statusline+=%*
+
+let g:syntastic_always_populate_loc_list = 1
+let g:syntastic_auto_loc_list = 1
+let g:syntastic_check_on_open = 1
+let g:syntastic_check_on_wq = 0

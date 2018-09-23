@@ -8,9 +8,12 @@ export EDITOR=vim
 
 alias i3lock='i3lock -i ~/afs/.confs/i3lock.png'
 alias ls='ls --color=auto'
-alias gdb='gdb -p'
 alias piscine='cd ~/afs/gauthier.fiorentino/piscine'
 alias confExport='~/afs/.confs/confExport.sh'
 alias confs='cd ~/afs/.confs'
+alias Makefile='cp /home/gauthier.fiorentino/afs/gauthier.fiorentino/UsefulCode\
+/Makefile Makefile'
+alias libMakefile='cp /home/gauthier.fiorentino/afs/gauthier.fiorentino\
+/UsefulCode/Makefile_lib Makefile'
 
-PS1='\[\e[92m\]\u\e[31m\]@\e[92m\h\e[7m\] \e[5m\]\W \e[0m\]]\$\n>>> '
+PS1='[\e[92m\]Gauthier\e[31m\]@\e[92m\h \e[7m\] \e[5m\]\W \e[0m\] ]\$\n>>> '

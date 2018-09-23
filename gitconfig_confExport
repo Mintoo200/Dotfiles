@@ -1,0 +1,27 @@
+[core]
+	editor = vim
+[color]
+	ui = true
+	branch = auto
+	diff = auto
+	interactive = auto
+	status = auto
+[commit]
+	verbose = true
+[pull]
+	rebase = true
+[branch]
+	autosetuprebase = always
+[push]
+	default = simple
+[sendemail]
+	smtpencryption = tls
+	smtpserver = smtp.office365.com
+	smtpserverport = 587
+	smtpuser = gauthier.fiorentino@epita.fr
+[user]
+	name = Gauthier Fiorentino
+	email = gauthier.fiorentino@gmail.com
+[alias]
+	display = log --graph
+

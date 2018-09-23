@@ -3,7 +3,7 @@
 CONFS="/home/gauthier.fiorentino/afs/.confs/"
 GITREPO="/home/gauthier.fiorentino/afs/gauthier.fiorentino/Config/"
 
-FILELIST="$CONFS/bashrc $CONFS/vimrc $CONFS/confExport.sh $CONFS/Xdefaults $CONFS/vim $CONFS/i3lock.png $CONFS/background.png"
+FILELIST="$CONFS/bashrc $CONFS/vimrc $CONFS/confExport.sh $CONFS/Xdefaults $CONFS/vim $CONFS/i3lock.png $CONFS/background.png $CONFS/gitconfig_confExport"
 
 if [ $# -eq 0 ]; then
     cp -u -r -t "$GITREPO" $FILELIST 1> /dev/null
