@@ -30,7 +30,7 @@ set listchars=eol:~,tab:>_
 highlight Error ctermfg=223
 
 set list
-set listchars=eol:$,tab:>_
+set listchars=eol:$,tab:>_,trail:!
 highlight SpecialChar ctermfg=118
 "set background
 highlight Normal guibg=NONE ctermbg=NONE
