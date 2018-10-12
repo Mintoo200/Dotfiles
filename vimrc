@@ -63,6 +63,8 @@ inoremap "" ""<Left>
 inoremap '' ''<Left>
 inoremap {} {}<Left>
 inoremap {}<Enter> <Enter>{}<Left><Enter><Enter><up><tab>
+nnoremap <C-E> :resize 100<Enter>
+nnoremap <C-W><C-W> <C-W><C-W>:resize 100<Enter>
 
 set foldmethod=syntax
 set foldlevelstart=20

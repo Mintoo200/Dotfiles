@@ -32,5 +32,6 @@ alias ld='ls'
 alias exi='exit'
 alias exiy='exit'
 
-
+#PS1='[\e[7;5;92m\]G\e[7;5;93m\]a\e[7;5;94m\]u\e[7;5;95m\]t\e[7;5;96m\]h\e[7;5;96m\]i\e[7;5;97m\]e\e[7;5;90m\]r\e[7;5;91m\]@\e[7;5;92m\]\h \e[7;5;93m\]\W \e[0m\] ]\$\n>>> '
+#PS1='\e[92m\]The kernel answered, as Gauthier asked nicely, while in \e[95m\]\W\e[92m\]: \e[0m\]'
 PS1='[\e[92m\]Gauthier\e[31m\]@\e[92m\h \e[7m\] \e[5m\]\W \e[0m\] ]\$\n>>> '

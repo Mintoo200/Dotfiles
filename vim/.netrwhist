@@ -1,10 +1,2 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =8
-let g:netrw_dirhist_1='/afs/cri.epita.net/user/g/ga/gauthier.fiorentino/u/gauthier.fiorentino/piscine/gauthier.fiorentino-piscine-d9/dlist'
-let g:netrw_dirhist_2='/afs/cri.epita.net/user/g/ga/gauthier.fiorentino/u/gauthier.fiorentino/UsefulCode'
-let g:netrw_dirhist_3='/afs/cri.epita.net/user/g/ga/gauthier.fiorentino/u/gauthier.fiorentino/piscine/d9-morning-tutorial'
-let g:netrw_dirhist_4='/afs/cri.epita.net/user/g/ga/gauthier.fiorentino/u/gauthier.fiorentino/piscine/gauthier.fiorentino-piscine-d9'
-let g:netrw_dirhist_5='/afs/cri.epita.net/user/g/ga/gauthier.fiorentino/u/gauthier.fiorentino/piscine/gauthier.fiorentino-piscine-d9/dlist'
-let g:netrw_dirhist_6='/afs/cri.epita.net/user/g/ga/gauthier.fiorentino/u/gauthier.fiorentino/UsefulCode'
-let g:netrw_dirhist_7='/afs/cri.epita.net/user/g/ga/gauthier.fiorentino/u/gauthier.fiorentino/piscine/gauthier.fiorentino-piscine-d12/count_words'
-let g:netrw_dirhist_8='/afs/cri.epita.net/user/g/ga/gauthier.fiorentino/u/gauthier.fiorentino/piscine/gauthier.fiorentino-libstream/libstream'
+let g:netrw_dirhist_cnt =0
