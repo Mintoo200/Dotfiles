@@ -5,14 +5,13 @@ GITREPO="${HOME}/Documents/Dotfiles/"
 
 #TODO make function to add $CONFS to file list (and /.potentially)
 FILELIST="
-$CONFS/.bashrc
-${CONFS}/.fehbg
-${CONFS}/.gitconfig
-${CONFS}/.i3lock.png
-${CONFS}/.i3lock_script.sh
-${CONFS}/.vimrc
-${CONFS}/.wallpaper.jpg
-${CONFS}/.con"
+bashrc
+fehbg
+gitconfig
+i3lock.png
+i3lock_script.sh
+vimrc
+wallpaper.jpg"
 
 __copy_files() {
     for file in $FILES; do
