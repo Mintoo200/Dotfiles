@@ -28,7 +28,6 @@ __push_on_git() {
 
 if [ $# -ne 0 ]; then
     FILELIST=$1
-    echo ${FILELIST}
 fi
 __copy_files
 __push_on_git
