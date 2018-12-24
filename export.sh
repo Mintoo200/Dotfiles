@@ -14,7 +14,7 @@ vimrc
 wallpaper.jpg"
 
 __copy_files() {
-    for file in $FILES; do
+    for file in $FILELIST; do
         cp -u -r "${CONFS}/.${file}" "$GITREPO"
     done
 }
@@ -27,9 +27,9 @@ __push_on_git() {
     exit 0
 }
 
-#if [ $# -ne 0 ]; then
-#    FILELIST=$1
-#fi
+if [ $# -ne 0 ]; then
+    FILELIST=$1
+fi
 
 __copy_files
 __push_on_git
