@@ -3,7 +3,6 @@
 CONFS=${HOME}
 GITREPO="${HOME}/Documents/Dotfiles/"
 
-#TODO make function to add $CONFS to file list (and /.potentially)
 FILELIST="
 bashrc
 fehbg
@@ -30,6 +29,5 @@ __push_on_git() {
 if [ $# -ne 0 ]; then
     FILELIST=$1
 fi
-
 __copy_files
 __push_on_git
