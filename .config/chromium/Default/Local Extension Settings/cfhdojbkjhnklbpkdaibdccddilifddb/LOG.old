@@ -1,0 +1,23 @@
+2018/12/24-11:50:32.248 d42 Reusing MANIFEST /home/mintoo200/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2018/12/24-11:50:32.251 d42 Recovering log #1548
+2018/12/24-11:50:32.270 d42 Reusing old log /home/mintoo200/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/001548.log 
+2018/12/24-11:51:33.790 e8a Level-0 table #1552: started
+2018/12/24-11:51:34.220 e8a Level-0 table #1552: 4077861 bytes OK
+2018/12/24-11:51:34.542 e8a Delete type=0 #1548
+2018/12/24-15:52:56.347 e8a Level-0 table #1554: started
+2018/12/24-15:52:56.587 e8a Level-0 table #1554: 4077611 bytes OK
+2018/12/24-15:52:56.621 e8a Delete type=0 #1551
+2018/12/24-15:52:56.623 e8a Compacting 4@0 + 2@1 files
+2018/12/24-15:52:57.115 e8a Generated table #1555@0: 1 keys, 4077371 bytes
+2018/12/24-15:52:57.116 e8a Level-0 table #1557: started
+2018/12/24-15:52:57.337 e8a Level-0 table #1557: 4077378 bytes OK
+2018/12/24-15:52:57.372 e8a Delete type=0 #1553
+2018/12/24-15:52:57.405 e8a Generated table #1558@0: 3 keys, 366 bytes
+2018/12/24-15:52:57.405 e8a Compacted 4@0 + 2@1 files => 4077737 bytes
+2018/12/24-15:52:57.439 e8a compacted to: files[ 1 2 1 0 0 0 0 ]
+2018/12/24-15:52:57.440 e8a Delete type=2 #1547
+2018/12/24-15:52:57.441 e8a Delete type=2 #1554
+2018/12/24-15:52:57.443 e8a Delete type=2 #1549
+2018/12/24-15:52:57.445 e8a Delete type=2 #1544
+2018/12/24-15:52:57.445 e8a Delete type=2 #1543
+2018/12/24-15:52:57.446 e8a Delete type=2 #1552

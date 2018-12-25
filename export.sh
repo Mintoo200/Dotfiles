@@ -10,7 +10,8 @@ gitconfig
 i3lock.png
 i3lock_script.sh
 vimrc
-wallpaper.jpg"
+wallpaper.jpg
+config"
 
 __copy_files() {
     for file in $FILELIST; do

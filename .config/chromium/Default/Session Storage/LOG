@@ -1,0 +1,9 @@
+2018/12/25-01:27:31.724 559 Reusing MANIFEST /home/mintoo200/.config/chromium/Default/Session Storage/MANIFEST-000001
+2018/12/25-01:27:31.725 559 Recovering log #452
+2018/12/25-01:27:31.785 559 Reusing old log /home/mintoo200/.config/chromium/Default/Session Storage/000452.log 
+2018/12/25-01:30:44.562 6d9 Level-0 table #456: started
+2018/12/25-01:30:44.940 6d9 Level-0 table #456: 21831 bytes OK
+2018/12/25-01:30:45.213 6d9 Delete type=0 #452
+2018/12/25-01:36:45.769 6d9 Level-0 table #458: started
+2018/12/25-01:36:45.982 6d9 Level-0 table #458: 14457 bytes OK
+2018/12/25-01:36:46.313 6d9 Delete type=0 #455

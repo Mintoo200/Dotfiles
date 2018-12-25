@@ -1,0 +1,51 @@
+{
+   "author": "TunnelBear Inc.",
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": "images/icon_off2x.png",
+      "default_popup": "popup.html"
+   },
+   "commands": {
+      "incognito-tunnelling": {
+         "description": "Incognito tunnelling",
+         "suggested_key": {
+            "default": "Alt+Shift+N",
+            "mac": "Alt+Shift+N",
+            "windows": "Alt+Shift+N"
+         }
+      },
+      "send-feedback": {
+         "description": "Send feedback"
+      },
+      "toggle-tunnelling": {
+         "description": "Toggle tunnelling",
+         "suggested_key": {
+            "default": "Ctrl+Shift+U",
+            "mac": "Command+Shift+U",
+            "windows": "Ctrl+Shift+U"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "js": [ "js/signup.js" ],
+      "matches": [ "*://*.tunnelbear.com/*" ]
+   } ],
+   "content_security_policy": "script-src 'self'; object-src 'self'",
+   "description": "Rawwwr! Put a Bear in your browser and privately access a more open internet in seconds!",
+   "homepage_url": "https://tunnelbear.com",
+   "icons": {
+      "128": "images/icon_128.png",
+      "16": "images/icon_16.png"
+   },
+   "incognito": "spanning",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwQ3Kv088Asz90bPzo4JooQw9+PFQlSDl4bT9iN1AZvEmN4MdnPrBdVvC15VpXzLtvOMFhD5HPgljcY12grNNQfjDw/Xd1DyGqcVbY4jW989Y8RTdAlNNx+2MFstYQScpR7hdo8P3KPAdqJNsZblb5bn0852E4NtZYtAXKirqcXmyX2njBTmda7BY1XJzYp9RPGB+oUjTNSu7SH/u2faOWQvVLMp3qLnSfx0xzakWI9qN6dRhvd6Sf9uTbi5RwTzfctUukV9BDFvXHnUgo21L1aHJry+VFJa+F6ogLp/Ztb317YQ9gGPWj3KH0IqnPazXEiiKuVlwahJVDXssVggWHQIDAQAB",
+   "manifest_version": 2,
+   "name": "TunnelBear VPN",
+   "offline_enabled": false,
+   "permissions": [ "contextMenus", "proxy", "tabs", "storage", "webRequestBlocking", "webRequest", "privacy", "\u003Call_urls>", "management" ],
+   "short_name": "TunnelBear VPN",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.2.3"
+}

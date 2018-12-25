@@ -1,0 +1,28 @@
+2018/12/25-01:27:32.579 4d2 Reusing MANIFEST /home/mintoo200/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2018/12/25-01:27:32.580 4d2 Recovering log #1556
+2018/12/25-01:27:34.417 4d2 Level-0 table #1560: started
+2018/12/25-01:27:34.825 4d2 Level-0 table #1560: 4077618 bytes OK
+2018/12/25-01:27:35.342 4d2 Delete type=0 #1556
+2018/12/25-01:28:32.013 6d9 Level-0 table #1563: started
+2018/12/25-01:28:32.141 6d9 Level-0 table #1563: 4077449 bytes OK
+2018/12/25-01:28:32.176 6d9 Delete type=0 #1561
+2018/12/25-01:28:59.122 6d9 Level-0 table #1565: started
+2018/12/25-01:28:59.857 6d9 Level-0 table #1565: 4077614 bytes OK
+2018/12/25-01:28:59.892 6d9 Delete type=0 #1562
+2018/12/25-01:28:59.894 6d9 Compacting 4@0 + 2@1 files
+2018/12/25-01:29:00.124 6d9 Generated table #1566@0: 1 keys, 4077374 bytes
+2018/12/25-01:29:00.158 6d9 Generated table #1567@0: 3 keys, 366 bytes
+2018/12/25-01:29:00.158 6d9 Compacted 4@0 + 2@1 files => 4077740 bytes
+2018/12/25-01:29:00.192 6d9 compacted to: files[ 0 2 1 0 0 0 0 ]
+2018/12/25-01:29:00.192 6d9 Delete type=2 #1557
+2018/12/25-01:29:00.193 6d9 Delete type=2 #1558
+2018/12/25-01:29:00.193 6d9 Delete type=2 #1563
+2018/12/25-01:29:00.194 6d9 Delete type=2 #1565
+2018/12/25-01:29:00.195 6d9 Delete type=2 #1560
+2018/12/25-01:29:00.196 6d9 Delete type=2 #1555
+2018/12/25-01:29:02.457 6d9 Level-0 table #1569: started
+2018/12/25-01:29:02.591 6d9 Level-0 table #1569: 4077457 bytes OK
+2018/12/25-01:29:02.626 6d9 Delete type=0 #1564
+2018/12/25-01:30:34.915 6d9 Level-0 table #1571: started
+2018/12/25-01:30:35.150 6d9 Level-0 table #1571: 4077179 bytes OK
+2018/12/25-01:30:35.231 6d9 Delete type=0 #1568
