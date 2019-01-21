@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Acknowledgements</title>
+    <style type="text/css">
+      @font-face {
+        font-family: 'OpenSans';
+        font-style: normal;
+        font-weight: 400;
+        src: url('/fonts/OpenSans-Regular.woff2') format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+      }
+
+      body {
+        overflow: hidden;
+        font-size: 11px;
+        font-family: 'OpenSans';
+      }
+
+      #acknowledgementsPreamble {
+        margin-top: 5px;
+        font-size: 15px;
+      }
+
+      #acknowledgementsText {
+        width: 100%;
+        height: 475px;
+        overflow: scroll;
+        border-style: solid;
+        border-color: black;
+        border-width: 1px;
+      }
+
+      #acknowledgementsText > div {
+        margin-left: 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <p id="acknowledgementsPreamble">
+      TunnelBear makes use of some amazing open source software
+      that help us make great privacy protection products. In order
+      to use them fairly, not only do we have to give credit where
+      credit is due, we must publicly display licenses for each.
+    </p>
+    <pre id="acknowledgementsText"></pre>
+    <script type="text/javascript" src="js/browser-polyfill.min.js"></script>
+    <script type="text/javascript" src="js/acknowledgements.js"></script>
+  <script type="text/javascript" src="js/acknowledgements.js"></script></body>
+</html>

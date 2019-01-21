@@ -1,3 +1,32 @@
-2018/12/24-11:50:36.589 cb6 Reusing MANIFEST leveldb/MANIFEST-000001
-2018/12/24-11:50:36.591 cb6 Recovering log #255
-2018/12/24-11:50:36.615 cb6 Reusing old log leveldb/000255.log 
+2019/01/04-15:02:15.016 4e0 Reusing MANIFEST leveldb/MANIFEST-000001
+2019/01/04-15:02:15.017 4e0 Recovering log #285
+2019/01/04-15:02:15.107 4e0 Reusing old log leveldb/000285.log 
+2019/01/04-15:19:26.473 13f9 Level-0 table #289: started
+2019/01/04-15:19:26.501 13f9 Level-0 table #289: 254048 bytes OK
+2019/01/04-15:19:26.997 13f9 Delete type=0 #285
+2019/01/05-17:42:44.547 290d Level-0 table #291: started
+2019/01/05-17:42:44.803 290d Level-0 table #291: 254408 bytes OK
+2019/01/05-17:42:44.814 290d Delete type=0 #288
+2019/01/06-17:42:55.461 3ce3 Level-0 table #293: started
+2019/01/06-17:42:55.467 3ce3 Level-0 table #293: 19734 bytes OK
+2019/01/06-17:42:55.472 3ce3 Delete type=0 #290
+2019/01/06-17:42:55.472 3ce3 Compacting 4@0 + 2@1 files
+2019/01/06-17:42:55.701 3ce3 Generated table #294@0: 1227 keys, 2274198 bytes
+2019/01/06-17:42:55.817 3ce3 Generated table #295@0: 2406 keys, 543783 bytes
+2019/01/06-17:42:55.817 3ce3 Compacted 4@0 + 2@1 files => 2817981 bytes
+2019/01/06-17:42:55.822 3ce3 compacted to: files[ 0 2 1 0 0 0 0 ]
+2019/01/06-17:42:55.823 3ce3 Delete type=2 #293
+2019/01/06-17:42:55.823 3ce3 Delete type=2 #286
+2019/01/06-17:42:55.823 3ce3 Delete type=2 #283
+2019/01/06-17:42:55.824 3ce3 Delete type=2 #284
+2019/01/06-17:42:55.824 3ce3 Delete type=2 #291
+2019/01/06-17:42:55.825 3ce3 Delete type=2 #289
+2019/01/06-17:48:06.599 3e3b Level-0 table #297: started
+2019/01/06-17:48:06.642 3e3b Level-0 table #297: 246241 bytes OK
+2019/01/06-17:48:06.655 3e3b Delete type=0 #292
+2019/01/06-17:56:47.954 3e3b Level-0 table #299: started
+2019/01/06-17:56:47.983 3e3b Level-0 table #299: 431743 bytes OK
+2019/01/06-17:56:47.996 3e3b Delete type=0 #296
+2019/01/06-17:59:53.065 3e7b Level-0 table #301: started
+2019/01/06-17:59:53.092 3e7b Level-0 table #301: 246288 bytes OK
+2019/01/06-17:59:53.099 3e7b Delete type=0 #298

@@ -1,3 +1,45 @@
-2018/12/24-11:50:33.050 d49 Reusing MANIFEST /home/mintoo200/.config/chromium/Default/Session Storage/MANIFEST-000001
-2018/12/24-11:50:33.051 d49 Recovering log #452
-2018/12/24-11:50:33.160 d49 Reusing old log /home/mintoo200/.config/chromium/Default/Session Storage/000452.log 
+2019/01/04-15:02:12.594 4db Reusing MANIFEST /home/mintoo/.config/chromium/Default/Session Storage/MANIFEST-000001
+2019/01/04-15:02:12.594 4db Recovering log #481
+2019/01/04-15:02:12.688 4db Reusing old log /home/mintoo/.config/chromium/Default/Session Storage/000481.log 
+2019/01/04-15:21:07.404 7fa Level-0 table #485: started
+2019/01/04-15:21:07.410 7fa Level-0 table #485: 17741 bytes OK
+2019/01/04-15:21:07.414 7fa Delete type=0 #481
+2019/01/04-15:26:07.487 7fa Level-0 table #487: started
+2019/01/04-15:26:07.493 7fa Level-0 table #487: 16876 bytes OK
+2019/01/04-15:26:07.497 7fa Delete type=0 #484
+2019/01/05-17:35:44.588 7fa Level-0 table #489: started
+2019/01/05-17:35:44.608 7fa Level-0 table #489: 19548 bytes OK
+2019/01/05-17:35:44.612 7fa Delete type=0 #486
+2019/01/05-17:35:44.612 7fa Compacting 4@0 + 1@1 files
+2019/01/05-17:35:44.669 7fa Generated table #490@0: 5560 keys, 154067 bytes
+2019/01/05-17:35:44.669 7fa Compacted 4@0 + 1@1 files => 154067 bytes
+2019/01/05-17:35:44.681 7fa compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/01/05-17:35:44.682 7fa Delete type=2 #489
+2019/01/05-17:35:44.682 7fa Delete type=2 #485
+2019/01/05-17:35:44.682 7fa Delete type=2 #482
+2019/01/05-17:35:44.682 7fa Delete type=2 #487
+2019/01/05-17:35:44.682 7fa Delete type=2 #480
+2019/01/05-18:28:22.483 7fa Level-0 table #492: started
+2019/01/05-18:28:22.509 7fa Level-0 table #492: 18712 bytes OK
+2019/01/05-18:28:22.514 7fa Delete type=0 #488
+2019/01/05-18:33:17.501 7fa Level-0 table #494: started
+2019/01/05-18:33:17.507 7fa Level-0 table #494: 17155 bytes OK
+2019/01/05-18:33:17.512 7fa Delete type=0 #491
+2019/01/06-16:55:43.153 7fa Level-0 table #496: started
+2019/01/06-16:55:43.193 7fa Level-0 table #496: 21316 bytes OK
+2019/01/06-16:55:43.204 7fa Delete type=0 #493
+2019/01/06-17:48:01.657 7fa Level-0 table #498: started
+2019/01/06-17:48:01.666 7fa Level-0 table #498: 18989 bytes OK
+2019/01/06-17:48:01.677 7fa Delete type=0 #495
+2019/01/06-17:48:01.677 7fa Compacting 4@0 + 1@1 files
+2019/01/06-17:48:01.709 7fa Generated table #499@0: 5635 keys, 199404 bytes
+2019/01/06-17:48:01.709 7fa Compacted 4@0 + 1@1 files => 199404 bytes
+2019/01/06-17:48:01.718 7fa compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/01/06-17:48:01.719 7fa Delete type=2 #492
+2019/01/06-17:48:01.719 7fa Delete type=2 #494
+2019/01/06-17:48:01.719 7fa Delete type=2 #496
+2019/01/06-17:48:01.719 7fa Delete type=2 #498
+2019/01/06-17:48:01.720 7fa Delete type=2 #490
+2019/01/06-17:59:47.231 7fa Level-0 table #501: started
+2019/01/06-17:59:47.296 7fa Level-0 table #501: 14757 bytes OK
+2019/01/06-17:59:47.303 7fa Delete type=0 #497

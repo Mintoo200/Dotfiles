@@ -1,3 +1,5 @@
-2018/12/24-11:50:27.712 d48 Recovering log #42
-2018/12/24-11:50:28.540 d48 Delete type=3 #40
-2018/12/24-11:50:28.540 d48 Delete type=0 #42
+2019/01/04-15:02:06.216 4df Recovering log #54
+2019/01/04-15:02:06.530 4df Level-0 table #56: started
+2019/01/04-15:02:06.773 4df Level-0 table #56: 11270 bytes OK
+2019/01/04-15:02:07.292 4df Delete type=0 #54
+2019/01/04-15:02:07.292 4df Delete type=3 #53

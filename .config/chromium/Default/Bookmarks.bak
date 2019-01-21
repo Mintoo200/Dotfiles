@@ -1,0 +1,1057 @@
+{
+   "checksum": "7445d894205f48819d39123f86c9b321",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13070315172000000",
+            "id": "7",
+            "meta_info": {
+               "last_visited": "13160710822596305",
+               "last_visited_desktop": "13164749613042103"
+            },
+            "name": " | ",
+            "sync_transaction_version": "9",
+            "type": "url",
+            "url": "http://www.pcgamer.com/news/"
+         }, {
+            "date_added": "13070315769000000",
+            "id": "8",
+            "meta_info": {
+               "last_visited": "13160710908717557",
+               "last_visited_desktop": "13164355938846823"
+            },
+            "name": " | ",
+            "sync_transaction_version": "10",
+            "type": "url",
+            "url": "http://www.vakarm.net/home"
+         }, {
+            "date_added": "13070315810000000",
+            "id": "9",
+            "meta_info": {
+               "last_visited_desktop": "13191034141999775"
+            },
+            "name": " | ",
+            "sync_transaction_version": "77",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/#inbox"
+         }, {
+            "date_added": "13090862138000000",
+            "id": "10",
+            "meta_info": {
+               "last_visited_desktop": "13160514854115390"
+            },
+            "name": " | ",
+            "sync_transaction_version": "12",
+            "type": "url",
+            "url": "https://unikrn.com/"
+         }, {
+            "date_added": "13179549350362950",
+            "id": "11",
+            "meta_info": {
+               "last_visited_desktop": "13191262291178788"
+            },
+            "name": "|",
+            "sync_transaction_version": "79",
+            "type": "url",
+            "url": "https://www.netflix.com/browse"
+         }, {
+            "date_added": "13070314898000000",
+            "id": "12",
+            "meta_info": {
+               "last_visited": "13168973955996163",
+               "last_visited_desktop": "13188406756366190"
+            },
+            "name": " | ",
+            "sync_transaction_version": "63",
+            "type": "url",
+            "url": "https://www.humblebundle.com/"
+         }, {
+            "children": [ {
+               "date_added": "13118412420000000",
+               "id": "91",
+               "meta_info": {
+                  "last_visited": "13189005798251507",
+                  "last_visited_desktop": "13188258312141919"
+               },
+               "name": "C'est l'emploi du temps",
+               "sync_transaction_version": "65",
+               "type": "url",
+               "url": "http://chronos.epita.net/"
+            }, {
+               "date_added": "13118884590000000",
+               "id": "92",
+               "meta_info": {
+                  "last_visited": "13155012560871895",
+                  "last_visited_desktop": "13174582128793875"
+               },
+               "name": "C'est les cours",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://ionisx.com/courses"
+            }, {
+               "date_added": "13119563378000000",
+               "id": "93",
+               "meta_info": {
+                  "last_visited_desktop": "13140649315907292"
+               },
+               "name": "It's the English lessons",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.edx.org/"
+            }, {
+               "date_added": "13119563409000000",
+               "id": "94",
+               "name": "It's more English lessons",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://owl.english.purdue.edu/owl/"
+            }, {
+               "date_added": "13119641381000000",
+               "id": "95",
+               "meta_info": {
+                  "last_visited": "13187096810033235",
+                  "last_visited_desktop": "13184167665700973"
+               },
+               "name": "C'est les notes",
+               "sync_transaction_version": "46",
+               "type": "url",
+               "url": "https://prepa-epita.helvetius.net/pegasus/index.php"
+            }, {
+               "date_added": "13117036261000000",
+               "id": "96",
+               "meta_info": {
+                  "last_visited": "13187961047689642",
+                  "last_visited_desktop": "13190246499921261"
+               },
+               "name": "C'est le mail Epita",
+               "sync_transaction_version": "74",
+               "type": "url",
+               "url": "https://outlook.office365.com/owa/?path=/mail/inbox"
+            }, {
+               "date_added": "13117665805000000",
+               "id": "97",
+               "meta_info": {
+                  "last_visited": "13156347351396265",
+                  "last_visited_desktop": "13158141046960928"
+               },
+               "name": "C'est le site d'algo",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://algo-td.infoprepa.epita.fr//"
+            }, {
+               "date_added": "13120514799000000",
+               "id": "98",
+               "meta_info": {
+                  "last_visited_desktop": "13139859659247521"
+               },
+               "name": "C'est le site ACDC",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://acdc.epita.it/intra/"
+            }, {
+               "date_added": "13117035155000000",
+               "id": "99",
+               "meta_info": {
+                  "last_visited_desktop": "13157313196409662"
+               },
+               "name": "C'est le site d'Epita",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.epita.net/"
+            }, {
+               "date_added": "13119809090000000",
+               "id": "100",
+               "meta_info": {
+                  "last_visited": "13180797096165317",
+                  "last_visited_desktop": "13152825242885095"
+               },
+               "name": "C'est ... ben en fait je sais pas trop",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://accounts.cri.epita.net/ssh_keys/"
+            }, {
+               "date_added": "13128738558866975",
+               "id": "101",
+               "meta_info": {
+                  "last_visited_desktop": "13135415649243287"
+               },
+               "name": "Imprimer vos dossiers plusieurs pages, rapports et livres à Paris",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.scriptlaser.com/commande-document-multipages-book-rapport-livre!/cgi/pub.cgi/order?id=268"
+            }, {
+               "date_added": "13128987957600678",
+               "id": "102",
+               "meta_info": {
+                  "last_visited_desktop": "13133826592624609"
+               },
+               "name": "B1",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.epib1.life/posts"
+            }, {
+               "date_added": "13130357094198627",
+               "id": "103",
+               "meta_info": {
+                  "last_visited_desktop": "13131556695349117"
+               },
+               "name": "Formation Complète Développeur de jeu vidéo - UNITY3D | Udemy",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.udemy.com/unity3d-formation-complete-developpeur-de-jeu-video/learn/v4/t/lecture/6328646?start=15"
+            }, {
+               "date_added": "13130927456337766",
+               "id": "104",
+               "meta_info": {
+                  "last_visited_desktop": "13134351102097506"
+               },
+               "name": "EPITA-Tech",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://epita.tech/"
+            }, {
+               "date_added": "13132005561827390",
+               "id": "105",
+               "meta_info": {
+                  "last_visited_desktop": "13139770832781994"
+               },
+               "name": "Epic Music For Work",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=qD8OnPC1fLI&index=27&list=RDQM0SeXmAvYbCs"
+            }, {
+               "date_added": "13133432133222325",
+               "id": "106",
+               "meta_info": {
+                  "last_visited_desktop": "13134171937577255"
+               },
+               "name": "C'est les pirates",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://pirates.acdc.epita.it/students"
+            }, {
+               "date_added": "13138826803234108",
+               "id": "107",
+               "meta_info": {
+                  "last_visited_desktop": "13159946800263790"
+               },
+               "name": "Plex",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://app.plex.tv/web/app#"
+            }, {
+               "date_added": "13151856491628617",
+               "id": "108",
+               "meta_info": {
+                  "last_visited_desktop": "13189551360539211"
+               },
+               "name": "EPITA:Programmation — wiki-prog",
+               "sync_transaction_version": "68",
+               "type": "url",
+               "url": "https://wiki-prog.infoprepa.epita.fr/index.php/EPITA:Programmation"
+            }, {
+               "date_added": "13152144505970675",
+               "id": "109",
+               "meta_info": {
+                  "last_visited_desktop": "13152471376815629"
+               },
+               "name": "Neural networks and deep learning",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://neuralnetworksanddeeplearning.com/chap1.html"
+            }, {
+               "date_added": "13159680525800294",
+               "id": "110",
+               "meta_info": {
+                  "last_visited": "13165539795857633",
+                  "last_visited_desktop": "13186576153710845"
+               },
+               "name": "UQAC - Université du Québec à Chicoutimi",
+               "sync_transaction_version": "30",
+               "type": "url",
+               "url": "https://wprodl.uqac.ca/dossier_etudiant/aide/infogen.html"
+            }, {
+               "date_added": "13167093237531357",
+               "id": "111",
+               "meta_info": {
+                  "last_visited_desktop": "13190247569993230"
+               },
+               "name": "Stage",
+               "sync_transaction_version": "76",
+               "type": "url",
+               "url": "https://outlook.office.com/owa/?path=/attachmentlightbox"
+            }, {
+               "date_added": "13186580983077048",
+               "id": "113",
+               "meta_info": {
+                  "last_visited_desktop": "13186580983077779"
+               },
+               "name": "Git Tower",
+               "sync_transaction_version": "36",
+               "type": "url",
+               "url": "https://www.git-tower.com/learn/git/ebook/en/command-line/introduction"
+            } ],
+            "date_added": "13185549151256910",
+            "date_modified": "13189006341561888",
+            "id": "13",
+            "name": "C'est l'Epita | ",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13145923404743744",
+               "id": "35",
+               "meta_info": {
+                  "last_visited_desktop": "13146797865789194"
+               },
+               "name": "Green Day: \"Boulevard Of Broken Dreams\" - [Official Video] - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=Soa3gO7tL-c"
+            }, {
+               "date_added": "13114448893000000",
+               "id": "36",
+               "name": "OneRepublic - All The Right Moves - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=qrOeGCJdZe4&list=RDEMrP1xMaEmkxteWhBxMXKITA&index=3"
+            }, {
+               "date_added": "13114448890000000",
+               "id": "37",
+               "name": "Arctic Monkeys - Do I Wanna Know? (Official Video) - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=bpOSxM0rNPM&list=PLhd1HyMTk3f5PzRjJzmzH7kkxjfdVoPPj&index=24"
+            }, {
+               "date_added": "13123948386555823",
+               "id": "38",
+               "name": "Five Finger Death Punch - Wrong Side Of Heaven - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=o_l4Ab5FRwM&index=14&list=RDEMBhlpzGCZlXxLMeHLVGJ2lQ"
+            }, {
+               "date_added": "13123964926967232",
+               "id": "39",
+               "meta_info": {
+                  "last_visited_desktop": "13185319252185709"
+               },
+               "name": "Disturbed - The Sound Of Silence [Official Music Video] - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=u9Dg-g7t2l4"
+            }, {
+               "date_added": "13125676510913663",
+               "id": "40",
+               "meta_info": {
+                  "last_visited_desktop": "13162694928103329"
+               },
+               "name": "PV Nova & Clara Doxal - Take Me For A Ride [Holy Oysters cover] - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=XW7XQXD1l0U"
+            }, {
+               "date_added": "13125708009219126",
+               "id": "41",
+               "name": "Indila - Dernière Danse (Clip Officiel) - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=K5KAc5CoCuk&list=RDEMQ5ic1-hC6PHKaxTFkjePOQ"
+            }, {
+               "date_added": "13125708025541296",
+               "id": "42",
+               "name": "Ellie Goulding - Love Me Like You Do (Official Video) - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=AJtDXIazrMo&list=RDEMw4pUX9POHNA4NYoqgKAsuw"
+            }, {
+               "date_added": "13125711379804435",
+               "id": "43",
+               "name": "Pink Floyd - Another Brick In The Wall, Part Two (Official Music Video) - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=HrxX9TBj2zY&list=PLhd1HyMTk3f5PzRjJzmzH7kkxjfdVoPPj&index=37"
+            }, {
+               "date_added": "13125854062808165",
+               "id": "44",
+               "meta_info": {
+                  "last_visited_desktop": "13161851868312641"
+               },
+               "name": "Monster-Meg & Dia - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=M0GRhK3W0_Y"
+            }, {
+               "date_added": "13125877121208625",
+               "id": "45",
+               "name": "[OFFICIAL VIDEO] Coldest Winter - Pentatonix - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=7oxSjw83u5E"
+            }, {
+               "date_added": "13127166195854925",
+               "id": "46",
+               "meta_info": {
+                  "last_visited_desktop": "13158539707992019"
+               },
+               "name": "Halestorm - I Miss The Misery [Official Video] - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=YpJAmlnBxoA&list=RDEMBhlpzGCZlXxLMeHLVGJ2lQ"
+            }, {
+               "date_added": "13127166633039146",
+               "id": "47",
+               "name": "Eagles - I Can't Tell You Why [w/ lyrics] - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=q6yyWKzPBCM&list=RDEMVYn5q6fxFfyTYzVAlJnDXg"
+            }, {
+               "date_added": "13127166775981143",
+               "id": "48",
+               "name": "Fun.: Some Nights [OFFICIAL VIDEO] - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=qQkBeOisNM0&list=RDEM2WCjqOASX9ZSJxdqfE91uA"
+            }, {
+               "date_added": "13127166791211085",
+               "id": "49",
+               "name": "Of Monsters And Men - Little Talks (Official Video) - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=ghb6eDopW8I&list=RDEMtACcMWsbzhWrS4jAODqpQg"
+            }, {
+               "date_added": "13127167235438593",
+               "id": "50",
+               "name": "[Free] Tristam - Undercat Ft. Zealot - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=PlN3cApxHME&list=RDEMNlCEvTKl842WVcvv5K6G2A"
+            }, {
+               "date_added": "13132221194366395",
+               "id": "51",
+               "meta_info": {
+                  "last_visited_desktop": "13132222622539670"
+               },
+               "name": "The White Stripes - 'Seven Nation Army' - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=0J2QdDbelmY&list=RDMMHMziHuTVoNk&index=2"
+            }, {
+               "date_added": "13133569688531127",
+               "id": "52",
+               "meta_info": {
+                  "last_visited_desktop": "13170708454091950"
+               },
+               "name": "Minus The Bear - Robotic Heart *HQ* Voids - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=_Kzx9b1Xv6E&list=RDMMHMziHuTVoNk&index=27"
+            }, {
+               "date_added": "13135685909234233",
+               "id": "53",
+               "meta_info": {
+                  "last_visited_desktop": "13135686143046331"
+               },
+               "name": "Unlike Pluto - Everything Black (feat. Mike Taylor) [Monstercat Release] - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=OFqeoXFSlms"
+            }, {
+               "date_added": "13140972981590140",
+               "id": "54",
+               "meta_info": {
+                  "last_visited_desktop": "13140972989660660"
+               },
+               "name": "blink-182 - Adam's Song - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=2MRdtXWcgIw&index=25&list=RDEMtED3VHAXRzWBBzE5J2zrgQ"
+            }, {
+               "date_added": "13141072953720777",
+               "id": "55",
+               "meta_info": {
+                  "last_visited_desktop": "13141073846500953"
+               },
+               "name": "Skillet - Hero (Official Video) - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=uGcsIdGOuZY&list=RDEMtED3VHAXRzWBBzE5J2zrgQ&index=27"
+            }, {
+               "date_added": "13143268732985415",
+               "id": "56",
+               "meta_info": {
+                  "last_visited_desktop": "13147218728480352"
+               },
+               "name": "Michael Bublé - Feeling Good [Official Music Video] - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=Edwsf-8F3sI"
+            }, {
+               "date_added": "13114448943000000",
+               "id": "57",
+               "name": "Queen - Bohemian Rhapsody (Official Video) - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=fJ9rUzIMcZQ&list=PLhd1HyMTk3f5PzRjJzmzH7kkxjfdVoPPj&index=7"
+            }, {
+               "date_added": "13114448896000000",
+               "id": "58",
+               "meta_info": {
+                  "last_visited_desktop": "13147926876516118"
+               },
+               "name": "EarlyRise - All You Know - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=7pLR-s6DuMc&list=PLJjBjNYLyxFVmOHC0PoS88_wjrp8TQDhN"
+            }, {
+               "date_added": "13147926986243350",
+               "id": "59",
+               "meta_info": {
+                  "last_visited_desktop": "13179024655182367"
+               },
+               "name": "Rise Against - Savior - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=e8X3ACToii0&index=2&list=RDEMtED3VHAXRzWBBzE5J2zrgQ"
+            }, {
+               "date_added": "13148603458066781",
+               "id": "60",
+               "meta_info": {
+                  "last_visited_desktop": "13148853483955560"
+               },
+               "name": "The Dø \"Despair, Hangover & Ecstasy\" - Comité des Reprises - PV Nova & Waxx - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=eDJRtzdTBhk"
+            }, {
+               "date_added": "13149029685532575",
+               "id": "61",
+               "meta_info": {
+                  "last_visited_desktop": "13149029685532835"
+               },
+               "name": "Mina Tindle \"Pas Les Saisons\" - Comité Des Reprises - PV Nova & Waxx - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=3D4yezNEfsI&index=27&list=RDEM_hi8iqOh5_dmFTMx4J8U3g"
+            }, {
+               "date_added": "13149031382278052",
+               "id": "62",
+               "meta_info": {
+                  "last_visited_desktop": "13149032486652971"
+               },
+               "name": "\"Tous les mêmes\" : KIZ révèle le sens caché du titre de Stromae - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=nCG-pdSlgTI"
+            }, {
+               "date_added": "13150411648897961",
+               "id": "63",
+               "meta_info": {
+                  "last_visited_desktop": "13160028320490333"
+               },
+               "name": "AronChupa - Little Swing ft. Little Sis Nora | OFFICIAL VIDEO - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=ipvEIZMMILA"
+            }, {
+               "date_added": "13150908751909035",
+               "id": "64",
+               "meta_info": {
+                  "last_visited_desktop": "13150908751909194"
+               },
+               "name": "Thirty Seconds To Mars - The Kill (Bury Me) - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=8yvGCAvOAfM&index=29&list=RDEM7Gsu8IvvUw8CkkAgI8WQOw"
+            }, {
+               "date_added": "13153157237188106",
+               "id": "65",
+               "meta_info": {
+                  "last_visited_desktop": "13153157237188306"
+               },
+               "name": "Queens Of The Stone Age - No One Knows - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=s88r_q7oufE&list=RDEMoSvSKkp5R5_hMRxz7Xq2ag&t=7"
+            }, {
+               "date_added": "13153157600594676",
+               "id": "66",
+               "meta_info": {
+                  "last_visited_desktop": "13153157600594858"
+               },
+               "name": "Smash Mouth - All Star - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=L_jWHffIx5E&list=RDEMoSvSKkp5R5_hMRxz7Xq2ag&t=111"
+            }, {
+               "date_added": "13153701674043200",
+               "id": "67",
+               "meta_info": {
+                  "last_visited_desktop": "13153701674043849"
+               },
+               "name": "Jain - Come - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=KDXOzr0GoA4&list=RDEMBxNzDTtbB5jG75LCTyHI7g"
+            }, {
+               "date_added": "13154023537292647",
+               "id": "68",
+               "meta_info": {
+                  "last_visited_desktop": "13154055215633017"
+               },
+               "name": "Colin Hay ~ Overkill - Lyrics - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=rj2CD5xgpNY"
+            }, {
+               "date_added": "13156554711349708",
+               "id": "69",
+               "meta_info": {
+                  "last_visited_desktop": "13156592010391466"
+               },
+               "name": "The Offspring - The Kids Aren't Alright - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=7iNbnineUCI&list=RDEMpS_cyiJv8kJGXZEfAuiAeA&index=27"
+            }, {
+               "date_added": "13156894686595038",
+               "id": "70",
+               "meta_info": {
+                  "last_visited_desktop": "13156894846676588"
+               },
+               "name": "The Heavy - Short Change Hero - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=lkvScx3Po8I"
+            }, {
+               "date_added": "13158996078485626",
+               "id": "71",
+               "meta_info": {
+                  "last_visited_desktop": "13165379372604094"
+               },
+               "name": "Camila Cabello - Havana - Fusion / Rock cover by Halocene - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=_sRO-6RjHGM"
+            }, {
+               "date_added": "13160027843911481",
+               "id": "72",
+               "meta_info": {
+                  "last_visited_desktop": "13160028317998994"
+               },
+               "name": "Shaka Ponk - Let's Bang [NEW OFFICIAL VIDEOCLIP] - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=jWYLL7wFyns"
+            }, {
+               "date_added": "13160122511070165",
+               "id": "73",
+               "meta_info": {
+                  "last_visited_desktop": "13160122511093625"
+               },
+               "name": "Indila - Dernière Danse (Clip Officiel) - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=K5KAc5CoCuk&list=RDEMZ3zk_hxF-YEGUgn03vYgGQ&index=8"
+            }, {
+               "date_added": "13160440155524257",
+               "id": "75",
+               "meta_info": {
+                  "last_visited_desktop": "13160773452854718"
+               },
+               "name": "\"Gravity\" - Against The Current (Official Music Video) - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=S34KpOAgyTg&list=RDEMWYCc8ZH8cYfz9NHTnoKeew"
+            }, {
+               "date_added": "13161754495027304",
+               "id": "76",
+               "meta_info": {
+                  "last_visited_desktop": "13161807666940747"
+               },
+               "name": "(2) Ashes Remain - On My Own [HD Animated Lyrics] - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=4l7fhxNrrrM&index=9&list=RDM0GRhK3W0_Y"
+            }, {
+               "date_added": "13164090031636645",
+               "id": "77",
+               "meta_info": {
+                  "last_visited_desktop": "13164090031833012"
+               },
+               "name": "Thomas Bergersen - Children of the Sun (feat. Merethe Soltvedt) - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=bpxtuUQ28UM"
+            }, {
+               "date_added": "13169068888124413",
+               "id": "78",
+               "meta_info": {
+                  "last_visited_desktop": "13169068888137035"
+               },
+               "name": "Icon For Hire - Make A Move - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=e_S9VvJM1PI&index=21&list=RDEMUhaj5LvG1RbRiTEA7Rp0kQ"
+            }, {
+               "date_added": "13170973998381625",
+               "id": "79",
+               "meta_info": {
+                  "last_visited_desktop": "13170973998472424"
+               },
+               "name": "Muse - Starlight [Official Music Video] - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=Pgum6OT_VH8&list=RDgnIZ7RMuLpU&index=21"
+            }, {
+               "date_added": "13171758327119781",
+               "id": "80",
+               "meta_info": {
+                  "last_visited_desktop": "13171758327130058"
+               },
+               "name": "Of Monsters And Men - Yellow Light (Official Lyric Video) - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=aBlKPLeLU_s"
+            }, {
+               "date_added": "13171764692067709",
+               "id": "81",
+               "meta_info": {
+                  "last_visited_desktop": "13171764692068485"
+               },
+               "name": "Bring Me The Horizon - Throne - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=Ow_qI_F2ZJI"
+            }, {
+               "date_added": "13171778786582082",
+               "id": "82",
+               "meta_info": {
+                  "last_visited_desktop": "13171778786952441"
+               },
+               "name": "SAIL - AWOLNATION (Unofficial Video) - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=JaAWdljhD5o"
+            }, {
+               "date_added": "13171935076268256",
+               "id": "83",
+               "meta_info": {
+                  "last_visited_desktop": "13171935076312028"
+               },
+               "name": "Vance Joy - 'Riptide' Official Video - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=uJ_1HMAGb4k&start_radio=1&list=RDEMrxTesNM2UxWELZx2vsoG2A"
+            }, {
+               "date_added": "13171935616383700",
+               "id": "85",
+               "meta_info": {
+                  "last_visited_desktop": "13171935708148820"
+               },
+               "name": "Mad World - Gary Jules - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=4N3N1MlvVc4"
+            }, {
+               "date_added": "13172617296503928",
+               "id": "86",
+               "meta_info": {
+                  "last_visited_desktop": "13172617296683711"
+               },
+               "name": "Skip The Use - Nameless World - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=OHXf7wEpBPI"
+            }, {
+               "date_added": "13174593116787214",
+               "id": "87",
+               "meta_info": {
+                  "last_visited_desktop": "13174593116898416"
+               },
+               "name": "Skarlett Riot - Warrior (Official Music Video) - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=tPKyzZjxNk8"
+            }, {
+               "date_added": "13175731717111439",
+               "id": "88",
+               "meta_info": {
+                  "last_visited_desktop": "13175731717932656"
+               },
+               "name": "maroon 5 - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/results?search_query=maroon+5"
+            }, {
+               "date_added": "13179009719903968",
+               "id": "90",
+               "meta_info": {
+                  "last_visited_desktop": "13183416926040105"
+               },
+               "name": "KONGOS - Come with Me Now - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=Gz2GVlQkn4Q"
+            }, {
+               "date_added": "13186624544644275",
+               "id": "114",
+               "meta_info": {
+                  "last_visited_desktop": "13186673301249651"
+               },
+               "name": "Blitz Kids - Title Fight (Audio) - YouTube",
+               "sync_transaction_version": "37",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=hWDZf8EFCmM&index=2&list=OLAK5uy_lxYxKfl0pDzzpBGmg4hEgQTzarVgNaM6s"
+            } ],
+            "date_added": "13185549151257422",
+            "date_modified": "13186624544644275",
+            "id": "14",
+            "name": "C'est la musique | ",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13150603864481031",
+               "id": "18",
+               "meta_info": {
+                  "last_visited_desktop": "13151517762326668"
+               },
+               "name": "All the lands in a sorted list (Unformat MTG Deck)",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://tappedout.net/mtg-decks/all-the-lands-in-a-sorted-list/"
+            }, {
+               "date_added": "13150603882427529",
+               "id": "19",
+               "meta_info": {
+                  "last_visited_desktop": "13184851792427837"
+               },
+               "name": "Building Your First Cube | MAGIC: THE GATHERING",
+               "sync_transaction_version": "16",
+               "type": "url",
+               "url": "https://magic.wizards.com/en/articles/archive/how-build/building-your-first-cube-2016-05-19"
+            }, {
+               "date_added": "13150603888176773",
+               "id": "20",
+               "meta_info": {
+                  "last_visited_desktop": "13167511881146264"
+               },
+               "name": "Mintoo → Politic - DeckStats.net Magic: The Gathering Deck Builder + Statistics",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://deckstats.net/decks/84405/f34539/?lng=en"
+            }, {
+               "date_added": "13164246707926522",
+               "id": "21",
+               "meta_info": {
+                  "last_visited_desktop": "13164246708138178"
+               },
+               "name": "Teresa Nielsen",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://tnielsen.com/Portfolio_Favorites.php"
+            }, {
+               "date_added": "13164246730488229",
+               "id": "22",
+               "meta_info": {
+                  "last_visited_desktop": "13164246730488777"
+               },
+               "name": "John Avon",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.johnavonart.com/gallery/men-machines-monsters.html"
+            }, {
+               "date_added": "13164246809889431",
+               "id": "23",
+               "meta_info": {
+                  "last_visited_desktop": "13164246809889894"
+               },
+               "name": "Noah Bradley",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://noahbradley.com/"
+            }, {
+               "date_added": "13164246818370046",
+               "id": "24",
+               "meta_info": {
+                  "last_visited_desktop": "13164246818370361"
+               },
+               "name": "Johannes Voss",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://algenpfleger.deviantart.com/gallery/"
+            }, {
+               "date_added": "13164246855156280",
+               "id": "25",
+               "meta_info": {
+                  "last_visited_desktop": "13164246855156586"
+               },
+               "name": "Cyril Van Der Haegen",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.cyrilvdh.com/"
+            }, {
+               "date_added": "13164246878242278",
+               "id": "26",
+               "meta_info": {
+                  "last_visited_desktop": "13164246878242738"
+               },
+               "name": "JASON CHAN",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.jasonchanart.com/"
+            }, {
+               "date_added": "13164246903636618",
+               "id": "27",
+               "meta_info": {
+                  "last_visited_desktop": "13164246903637049"
+               },
+               "name": "Adam Paquette",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://adampaquette.deviantart.com/"
+            }, {
+               "date_added": "13164246925112885",
+               "id": "28",
+               "meta_info": {
+                  "last_visited_desktop": "13164246925130919"
+               },
+               "name": "Vincent Proce",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.vincentproce.com/olive-monster/"
+            }, {
+               "date_added": "13164246943598591",
+               "id": "29",
+               "meta_info": {
+                  "last_visited_desktop": "13164246943599062"
+               },
+               "name": "Steven Belledin",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.stevenbelledin.com/originals/"
+            }, {
+               "date_added": "13164246978970592",
+               "id": "30",
+               "meta_info": {
+                  "last_visited_desktop": "13164246978971042"
+               },
+               "name": "Daarken",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://daarken.com/shop/portfolio/"
+            }, {
+               "date_added": "13167424046302493",
+               "id": "31",
+               "meta_info": {
+                  "last_visited_desktop": "13179549823790532"
+               },
+               "name": "Everything you need to know about “Masters 25” [INFOGRAPHIC] – Visualizing Magic",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.visualizingmagic.com/everything-you-need-to-know-about-masters-25-infographic/"
+            }, {
+               "date_added": "13167514095008082",
+               "id": "32",
+               "meta_info": {
+                  "last_visited_desktop": "13167514095054722"
+               },
+               "name": "Pinterest",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.pinterest.ca/pin/771100767423450766/"
+            }, {
+               "date_added": "13115845189000000",
+               "id": "33",
+               "meta_info": {
+                  "last_visited": "13150450544886990",
+                  "last_visited_desktop": "13167513173980180"
+               },
+               "name": "Level One : Le cours complet | MAGIC: THE GATHERING",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://magic.wizards.com/fr/articles/archive/level-one/level-one-le-cours-complet-2016-08-15"
+            }, {
+               "date_added": "13149015011381252",
+               "id": "34",
+               "meta_info": {
+                  "last_visited_desktop": "13164163438224141"
+               },
+               "name": "DeckStats.net Magic: The Gathering Deck Builder + Statistics",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://deckstats.net/?lng=en"
+            } ],
+            "date_added": "13185549151257955",
+            "date_modified": "13185549151257955",
+            "id": "15",
+            "name": "Magic",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "date_added": "13149352715757744",
+            "id": "16",
+            "meta_info": {
+               "last_visited_desktop": "13181336424219877"
+            },
+            "name": "TL-WR841N",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://tplinkwifi.net/CRDCEWIBTHDWBQPC/userRpm/Index.htm"
+         }, {
+            "date_added": "13179800682019123",
+            "id": "17",
+            "meta_info": {
+               "last_visited_desktop": "13189454675192284"
+            },
+            "name": "Minecraft Panel",
+            "sync_transaction_version": "67",
+            "type": "url",
+            "url": "https://beta.minecraftpanel.net/dashboard.php?page=config&serviceid=61871"
+         } ],
+         "date_added": "13185549108276005",
+         "date_modified": "13191262363755291",
+         "id": "1",
+         "name": "Barre de favoris",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13185549108276022",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Autres favoris",
+         "type": "folder"
+      },
+      "sync_transaction_version": "79",
+      "synced": {
+         "children": [ {
+            "date_added": "13159490133362012",
+            "id": "5",
+            "meta_info": {
+               "last_visited": "13159574122884397"
+            },
+            "name": "Air Canada Boarding Pass",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://mci.aircanada.com/mci/bp/9G09Eb4qPh7x75BclimDg21b9?appDetection=false"
+         }, {
+            "date_added": "13159490160838219",
+            "id": "6",
+            "meta_info": {
+               "last_visited": "13159537621075473"
+            },
+            "name": "Air Canada Boarding Pass",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://mci.aircanada.com/mci/bp/CpvNF8NkajTqnn6ANgV1Q21b9?appDetection=false"
+         } ],
+         "date_added": "13185549108276030",
+         "date_modified": "13159490160838219",
+         "id": "3",
+         "name": "Favoris sur mobile",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,3 +1,3 @@
 #!/bin/sh
 
-/bin/i3lock_init -i /home/mintoo200/.i3lock.png -u
+/bin/i3lock_init -i ~/.i3lock.png -u

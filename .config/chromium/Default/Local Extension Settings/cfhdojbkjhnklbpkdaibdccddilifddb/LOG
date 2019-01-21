@@ -1,28 +1,44 @@
-2018/12/25-01:27:32.579 4d2 Reusing MANIFEST /home/mintoo200/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
-2018/12/25-01:27:32.580 4d2 Recovering log #1556
-2018/12/25-01:27:34.417 4d2 Level-0 table #1560: started
-2018/12/25-01:27:34.825 4d2 Level-0 table #1560: 4077618 bytes OK
-2018/12/25-01:27:35.342 4d2 Delete type=0 #1556
-2018/12/25-01:28:32.013 6d9 Level-0 table #1563: started
-2018/12/25-01:28:32.141 6d9 Level-0 table #1563: 4077449 bytes OK
-2018/12/25-01:28:32.176 6d9 Delete type=0 #1561
-2018/12/25-01:28:59.122 6d9 Level-0 table #1565: started
-2018/12/25-01:28:59.857 6d9 Level-0 table #1565: 4077614 bytes OK
-2018/12/25-01:28:59.892 6d9 Delete type=0 #1562
-2018/12/25-01:28:59.894 6d9 Compacting 4@0 + 2@1 files
-2018/12/25-01:29:00.124 6d9 Generated table #1566@0: 1 keys, 4077374 bytes
-2018/12/25-01:29:00.158 6d9 Generated table #1567@0: 3 keys, 366 bytes
-2018/12/25-01:29:00.158 6d9 Compacted 4@0 + 2@1 files => 4077740 bytes
-2018/12/25-01:29:00.192 6d9 compacted to: files[ 0 2 1 0 0 0 0 ]
-2018/12/25-01:29:00.192 6d9 Delete type=2 #1557
-2018/12/25-01:29:00.193 6d9 Delete type=2 #1558
-2018/12/25-01:29:00.193 6d9 Delete type=2 #1563
-2018/12/25-01:29:00.194 6d9 Delete type=2 #1565
-2018/12/25-01:29:00.195 6d9 Delete type=2 #1560
-2018/12/25-01:29:00.196 6d9 Delete type=2 #1555
-2018/12/25-01:29:02.457 6d9 Level-0 table #1569: started
-2018/12/25-01:29:02.591 6d9 Level-0 table #1569: 4077457 bytes OK
-2018/12/25-01:29:02.626 6d9 Delete type=0 #1564
-2018/12/25-01:30:34.915 6d9 Level-0 table #1571: started
-2018/12/25-01:30:35.150 6d9 Level-0 table #1571: 4077179 bytes OK
-2018/12/25-01:30:35.231 6d9 Delete type=0 #1568
+2019/01/21-08:52:13.171 a0a Reusing MANIFEST /home/mintoo/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2019/01/21-08:52:13.172 a0a Recovering log #1666
+2019/01/21-08:52:13.172 a0a Reusing old log /home/mintoo/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/001666.log 
+2019/01/21-08:53:21.087 d0d Level-0 table #1670: started
+2019/01/21-08:53:21.209 d0d Level-0 table #1670: 4098562 bytes OK
+2019/01/21-08:53:21.225 d0d Delete type=0 #1666
+2019/01/21-08:53:21.228 d0d Compacting 4@0 + 2@1 files
+2019/01/21-08:53:21.381 d0d Generated table #1671@0: 1 keys, 4098389 bytes
+2019/01/21-08:53:21.389 d0d Generated table #1672@0: 3 keys, 367 bytes
+2019/01/21-08:53:21.389 d0d Compacted 4@0 + 2@1 files => 4098756 bytes
+2019/01/21-08:53:21.398 d0d compacted to: files[ 0 2 1 0 0 0 0 ]
+2019/01/21-08:53:21.398 d0d Delete type=2 #1661
+2019/01/21-08:53:21.398 d0d Delete type=2 #1665
+2019/01/21-08:53:21.399 d0d Delete type=2 #1667
+2019/01/21-08:53:21.399 d0d Delete type=2 #1670
+2019/01/21-08:53:21.400 d0d Delete type=2 #1660
+2019/01/21-08:53:21.400 d0d Delete type=2 #1663
+2019/01/21-08:53:25.630 d0d Level-0 table #1674: started
+2019/01/21-08:53:25.778 d0d Level-0 table #1674: 4102989 bytes OK
+2019/01/21-08:53:25.784 d0d Delete type=0 #1669
+2019/01/21-08:53:46.771 d0d Level-0 table #1676: started
+2019/01/21-08:53:47.424 d0d Level-0 table #1676: 4101840 bytes OK
+2019/01/21-08:53:47.435 d0d Delete type=0 #1673
+2019/01/21-14:46:53.927 d0d Level-0 table #1678: started
+2019/01/21-14:46:54.224 d0d Level-0 table #1678: 4102126 bytes OK
+2019/01/21-14:46:54.233 d0d Delete type=0 #1675
+2019/01/21-15:47:00.805 d0d Level-0 table #1680: started
+2019/01/21-15:47:01.156 2410 Current memtable full; waiting...
+2019/01/21-15:47:02.743 d0d Level-0 table #1680: 4102551 bytes OK
+2019/01/21-15:47:03.945 d0d Delete type=0 #1677
+2019/01/21-15:47:03.950 d0d Compacting 4@0 + 2@1 files
+2019/01/21-15:47:04.048 d0d Level-0 table #1682: started
+2019/01/21-15:47:04.435 d0d Level-0 table #1682: 4102316 bytes OK
+2019/01/21-15:47:04.985 d0d Delete type=0 #1679
+2019/01/21-15:47:25.499 d0d Generated table #1683@0: 1 keys, 4102311 bytes
+2019/01/21-15:47:25.575 d0d Generated table #1684@0: 3 keys, 366 bytes
+2019/01/21-15:47:25.575 d0d Compacted 4@0 + 2@1 files => 4102677 bytes
+2019/01/21-15:47:25.580 d0d compacted to: files[ 1 2 1 0 0 0 0 ]
+2019/01/21-15:47:25.580 d0d Delete type=2 #1671
+2019/01/21-15:47:25.581 d0d Delete type=2 #1672
+2019/01/21-15:47:25.581 d0d Delete type=2 #1678
+2019/01/21-15:47:25.583 d0d Delete type=2 #1674
+2019/01/21-15:47:25.584 d0d Delete type=2 #1676
+2019/01/21-15:47:25.585 d0d Delete type=2 #1680

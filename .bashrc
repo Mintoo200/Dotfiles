@@ -12,6 +12,9 @@ export EDITOR=vim
 
 #   ---- ---- ---- ---- ---- ----   Aliases:   ---- ---- ---- ---- ---- ----
 
+alias makeasm='gcc -c -Wall -Wextra -Werror -fPIC lists.S; gcc -fPIC -shared lists.o -g -o liblists.so; gcc -g -Wall -Wextra -Werror -pedantic -std=c99 -L. -llists test.c'
+alias execasm='LD_LIBRARY_PATH=.'
+
 alias ls='ls --color=auto'
 alias piscine='cd ~/afs/gauthier.fiorentino/piscine'
 alias projects='cd ~/afs/gauthier.fiorentino/Ing1_projects'
