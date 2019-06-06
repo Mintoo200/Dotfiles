@@ -1,6 +1,0 @@
-2019/01/21-08:52:09.196 a00 Reusing MANIFEST /home/mintoo/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
-2019/01/21-08:52:09.196 a00 Recovering log #117
-2019/01/21-08:52:09.734 a00 Reusing old log /home/mintoo/.config/chromium/Default/Sync Data/LevelDB/000117.log 
-2019/01/21-14:32:27.785 d0d Level-0 table #121: started
-2019/01/21-14:32:27.795 d0d Level-0 table #121: 129809 bytes OK
-2019/01/21-14:32:27.800 d0d Delete type=0 #117

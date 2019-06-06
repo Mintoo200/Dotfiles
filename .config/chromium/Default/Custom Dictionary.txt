@@ -1,3 +1,0 @@
-EPITA
-Fiorentino
-checksum_v1 = 3009bb887af479a240599521c5d3925c

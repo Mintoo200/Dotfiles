@@ -1,7 +1,7 @@
 #!/bin/sh
 
 CONFS=${HOME}
-GITREPO="${HOME}/Documents/Dotfiles/"
+GITREPO="$(pwd)"
 
 FILELIST="
 bashrc
@@ -11,18 +11,22 @@ i3lock.png
 i3lock_script.sh
 vimrc
 wallpaper.jpg
-config"
+config/i3/config
+config/i3status/config
+config/termite/config"
 
 __copy_files() {
     for file in $FILELIST; do
-        cp -u -r "${CONFS}/.${file}" "$GITREPO"
+        PATHTOFILE="$(dirname $file)";
+        mkdir -p ".${PATHTOFILE}";
+        cp -u -r "${CONFS}/.${file}" "$GITREPO/.${PATHTOFILE}"
     done
 }
 
 __push_on_git() {
     cd "$GITREPO"
     git add -A
-    git commit -m  "Update: $(date +"%A %d %Y at %T %Z") ($(date -u +"%T %Z"))."
+    git commit -m  "Update: $(date +"%A %d %B %Y at %T %Z") ($(date -u +"%T %Z"))."
     git push
     exit 0
 }
